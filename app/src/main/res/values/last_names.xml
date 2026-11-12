@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="last_names">
+        <item>Иванов</item>
+        <item>Петров</item>
+        <item>Сидоров</item>
+        <item>Смирнов</item>
+        <item>Кузнецов</item>
+        <item>Попов</item>
+        <item>Васильев</item>
+        <item>Соколов</item>
+        <item>Михайлов</item>
+        <item>Новиков</item>
+        <item>Фёдоров</item>
+        <item>Морозов</item>
+        <item>Волков</item>
+        <item>Алексеев</item>
+        <item>Лебедев</item>
+    </string-array>
+</resources>
